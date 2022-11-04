@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently looking for a IT job
+🔭 I’m currently looking for a IT job     
+
 🌱 I’m currently learning
 
 
